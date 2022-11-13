@@ -1,0 +1,500 @@
+10.07_18:20:02_208 INFO  [JCommonServiceHelper]   found userServiceClass :com.jiyiuav.android.k3a.base.service.PushService by getCommonServiceNames
+10.07_18:20:02_212 DEBUG [JCoreHelper]            runActionWithService action:init
+10.07_18:20:02_217 DEBUG [CheckManifestHelper]    manifest:channel - default_developer
+10.07_18:20:02_404 DEBUG [JCommonInterface]       onEvent action:service_create
+10.07_18:20:02_505 DEBUG [JCommonInterface]       onEvent action:set_sdktype_info
+10.07_18:20:02_521 DEBUG [AndroidUtil]            action:checkValidManifest
+10.07_18:20:02_526 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_18:20:02_528 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_18:20:02_530 DEBUG [ActionHelper]           doAction:init
+10.07_18:20:02_531 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_18:20:02_531 DEBUG [ActionHelper]           doAction:init
+10.07_18:20:02_532 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_18:20:02_613 DEBUG [JCommonInterface]       onEvent action:set_sdktype_info
+10.07_18:20:02_629 DEBUG [GeofenceAction]         Recover geofence size:0
+10.07_18:20:02_631 DEBUG [CustomGeofenAction]     start listen geofence
+10.07_18:20:02_632 DEBUG [CustomGeofenAction]     No geofence,not need listen
+10.07_18:26:14_786 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_18:26:14_787 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_18:26:14_799 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_ON
+10.07_18:26:14_807 DEBUG [ActionHelper]           doAction:jcore_on_event
+10.07_18:26:14_807 DEBUG [JCommonInterface]       onEvent action:periodtask
+10.07_18:26:14_833 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_18:26:14_833 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_18:26:14_834 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_18:26:14_834 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_18:26:16_900 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_18:26:16_901 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_18:26:16_902 DEBUG [JCoreHelper]            runActionWithService action:user_present
+10.07_18:26:16_902 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_18:26:16_903 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_18:26:16_903 DEBUG [JCommonInterface]       onEvent action:user_present
+10.07_18:26:16_903 DEBUG [JPushActionImpl]        handle third message:android.intent.action.USER_PRESENT
+10.07_18:26:46_609 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_18:26:46_609 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_18:26:46_610 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_OFF
+10.07_18:26:46_839 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_18:26:46_839 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_18:26:46_840 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_ON
+10.07_18:26:46_840 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_18:26:46_841 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_18:27:02_590 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_18:27:02_591 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_18:27:02_594 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_OFF
+10.07_18:27:10_727 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_18:27:10_728 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_18:27:10_731 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_ON
+10.07_18:27:10_731 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_18:27:10_733 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_18:27:14_605 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_18:27:14_606 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_18:27:14_607 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_OFF
+10.07_18:27:14_885 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_18:27:14_886 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_18:27:14_888 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_ON
+10.07_18:27:14_889 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_18:27:14_892 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_18:27:29_088 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_18:27:29_088 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_18:27:29_089 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_OFF
+10.07_18:34:41_071 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_18:34:41_071 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_18:34:41_073 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_ON
+10.07_18:34:41_088 DEBUG [ActionHelper]           doAction:jcore_on_event
+10.07_18:34:41_089 DEBUG [JCommonInterface]       onEvent action:periodtask
+10.07_18:34:41_092 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_18:34:41_094 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_18:34:41_094 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_18:34:41_095 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_18:34:41_828 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_18:34:41_829 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_18:34:41_830 DEBUG [JCoreHelper]            runActionWithService action:user_present
+10.07_18:34:41_833 DEBUG [JCommonInterface]       onEvent action:user_present
+10.07_18:34:41_831 DEBUG [JPushActionImpl]        handle third message:android.intent.action.USER_PRESENT
+10.07_18:34:41_841 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_18:34:41_844 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_18:34:51_279 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_18:34:51_280 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_18:34:51_281 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_OFF
+10.07_18:36:52_845 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_18:36:52_846 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_18:36:52_851 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_ON
+10.07_18:36:52_851 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_18:36:52_862 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_18:38:22_038 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_18:38:22_039 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_18:38:22_041 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_OFF
+10.07_18:39:03_007 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_18:39:03_010 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_18:39:03_014 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_ON
+10.07_18:39:03_015 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_18:39:03_016 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_18:39:14_511 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_18:39:14_512 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_18:39:14_514 DEBUG [JCoreHelper]            runActionWithService action:user_present
+10.07_18:39:14_515 DEBUG [JPushActionImpl]        handle third message:android.intent.action.USER_PRESENT
+10.07_18:39:14_515 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_18:39:14_516 DEBUG [JCommonInterface]       onEvent action:user_present
+10.07_18:39:14_518 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_18:41:04_505 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_18:41:04_505 DEBUG [ActionHelper]           doAction:jcore_on_event
+10.07_18:41:04_508 DEBUG [JCommonInterface]       onEvent action:periodtask
+10.07_18:41:04_516 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_18:41:18_442 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_18:41:18_442 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_18:41:18_444 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_OFF
+10.07_18:45:49_607 DEBUG [ActionHelper]           doAction:jcore_on_event
+10.07_18:45:49_608 DEBUG [JCommonInterface]       onEvent action:periodtask
+10.07_18:45:49_608 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_18:45:49_617 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_18:50:34_733 DEBUG [ActionHelper]           doAction:jcore_on_event
+10.07_18:50:34_734 DEBUG [JCommonInterface]       onEvent action:periodtask
+10.07_18:50:34_734 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_18:50:34_742 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_18:55:19_763 DEBUG [ActionHelper]           doAction:jcore_on_event
+10.07_18:55:19_764 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_18:55:19_764 DEBUG [JCommonInterface]       onEvent action:periodtask
+10.07_18:55:19_767 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_18:59:19_087 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_18:59:19_087 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_18:59:19_088 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_ON
+10.07_18:59:19_089 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_18:59:19_090 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_18:59:23_908 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_18:59:23_910 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_18:59:23_912 DEBUG [JCoreHelper]            runActionWithService action:user_present
+10.07_18:59:23_913 DEBUG [JCommonInterface]       onEvent action:user_present
+10.07_18:59:23_913 DEBUG [JPushActionImpl]        handle third message:android.intent.action.USER_PRESENT
+10.07_18:59:23_921 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_18:59:23_922 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_18:59:35_994 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_18:59:35_995 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_18:59:35_997 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_OFF
+10.07_19:00:15_681 DEBUG [ActionHelper]           doAction:jcore_on_event
+10.07_19:00:15_682 DEBUG [JCommonInterface]       onEvent action:periodtask
+10.07_19:00:15_682 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_19:00:15_684 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_19:06:09_069 DEBUG [ActionHelper]           doAction:jcore_on_event
+10.07_19:06:09_070 DEBUG [JCommonInterface]       onEvent action:periodtask
+10.07_19:06:09_070 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_19:06:09_072 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_19:10:18_130 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_19:10:18_131 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_19:10:18_132 DEBUG [JCoreHelper]            runActionWithService action:user_present
+10.07_19:10:18_133 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_19:10:18_133 DEBUG [JCommonInterface]       onEvent action:user_present
+10.07_19:10:18_135 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_19:10:18_139 DEBUG [JPushActionImpl]        handle third message:android.intent.action.USER_PRESENT
+10.07_19:10:19_044 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_19:10:19_045 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_19:10:19_046 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_ON
+10.07_19:10:19_061 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_19:10:19_061 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_19:12:00_116 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_19:12:00_117 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_19:12:00_118 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_OFF
+10.07_19:13:15_291 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_19:13:15_292 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_19:13:15_297 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_ON
+10.07_19:13:15_303 DEBUG [ActionHelper]           doAction:jcore_on_event
+10.07_19:13:15_304 DEBUG [JCommonInterface]       onEvent action:periodtask
+10.07_19:13:15_307 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_19:13:15_308 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_19:13:15_308 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_19:13:15_309 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_19:13:20_438 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_19:13:20_439 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_19:13:20_440 DEBUG [JCoreHelper]            runActionWithService action:user_present
+10.07_19:13:20_441 DEBUG [JPushActionImpl]        handle third message:android.intent.action.USER_PRESENT
+10.07_19:13:20_442 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_19:13:20_442 DEBUG [JCommonInterface]       onEvent action:user_present
+10.07_19:13:20_445 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_19:14:05_891 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_19:14:05_891 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_19:14:05_892 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_OFF
+10.07_19:14:06_107 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_19:14:06_107 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_19:14:06_108 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_ON
+10.07_19:14:06_112 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_19:14:06_114 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_19:14:43_198 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_19:14:43_198 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_19:14:43_200 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_OFF
+10.07_19:17:22_888 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_19:17:22_888 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_19:17:22_889 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_ON
+10.07_19:17:22_890 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_19:17:22_894 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_19:17:29_543 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_19:17:29_543 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_19:17:29_544 DEBUG [JCoreHelper]            runActionWithService action:user_present
+10.07_19:17:29_545 DEBUG [JCommonInterface]       onEvent action:user_present
+10.07_19:17:29_545 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_19:17:29_551 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_19:17:29_558 DEBUG [JPushActionImpl]        handle third message:android.intent.action.USER_PRESENT
+10.07_19:20:01_076 DEBUG [ActionHelper]           doAction:jcore_on_event
+10.07_19:20:01_077 DEBUG [JCommonInterface]       onEvent action:periodtask
+10.07_19:20:01_087 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_19:20:01_089 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_19:20:54_823 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_19:20:54_824 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_19:20:54_825 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_OFF
+10.07_19:21:04_249 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_19:21:04_250 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_19:21:04_251 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_ON
+10.07_19:21:04_251 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_19:21:04_252 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_19:21:04_845 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_19:21:04_846 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_19:21:04_847 DEBUG [JCoreHelper]            runActionWithService action:user_present
+10.07_19:21:04_848 DEBUG [JPushActionImpl]        handle third message:android.intent.action.USER_PRESENT
+10.07_19:21:04_849 DEBUG [JCommonInterface]       onEvent action:user_present
+10.07_19:21:04_849 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_19:21:04_865 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_19:22:09_441 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_19:22:09_442 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_19:22:09_446 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_OFF
+10.07_19:22:11_627 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_19:22:11_628 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_19:22:11_630 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_19:22:11_629 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_ON
+10.07_19:22:11_631 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_19:22:11_884 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_19:22:11_894 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_19:22:11_896 DEBUG [JCoreHelper]            runActionWithService action:user_present
+10.07_19:22:11_897 DEBUG [JPushActionImpl]        handle third message:android.intent.action.USER_PRESENT
+10.07_19:22:11_904 DEBUG [JCommonInterface]       onEvent action:user_present
+10.07_19:22:11_904 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_19:22:11_906 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_19:24:53_568 DEBUG [ActionHelper]           doAction:jcore_on_event
+10.07_19:24:53_569 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_19:24:53_571 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_19:25:28_060 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_19:25:28_061 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_19:25:28_062 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_OFF
+10.07_19:25:51_415 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_19:25:51_416 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_19:25:51_418 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_19:25:51_419 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_19:25:51_422 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_ON
+10.07_19:25:56_838 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_19:25:56_841 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_19:25:56_842 DEBUG [JCoreHelper]            runActionWithService action:user_present
+10.07_19:25:56_844 DEBUG [JPushActionImpl]        handle third message:android.intent.action.USER_PRESENT
+10.07_19:25:56_843 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_19:25:56_845 DEBUG [JCommonInterface]       onEvent action:user_present
+10.07_19:25:56_847 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_19:29:56_282 DEBUG [ActionHelper]           doAction:jcore_on_event
+10.07_19:29:56_284 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_19:29:56_284 DEBUG [JCommonInterface]       onEvent action:periodtask
+10.07_19:29:56_287 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_19:34:41_377 DEBUG [ActionHelper]           doAction:jcore_on_event
+10.07_19:34:41_378 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_19:34:41_381 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_19:38:17_613 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_19:38:17_614 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_19:38:17_616 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_OFF
+10.07_19:39:25_075 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_19:39:25_076 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_19:39:25_078 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_ON
+10.07_19:39:25_079 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_19:39:25_082 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_19:39:26_467 DEBUG [ActionHelper]           doAction:jcore_on_event
+10.07_19:39:26_468 DEBUG [JCommonInterface]       onEvent action:periodtask
+10.07_19:39:26_469 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_19:39:26_472 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_19:44:11_552 DEBUG [ActionHelper]           doAction:jcore_on_event
+10.07_19:44:11_554 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_19:44:11_554 DEBUG [JCommonInterface]       onEvent action:periodtask
+10.07_19:44:11_557 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_19:45:39_400 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_19:45:39_401 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_19:45:39_402 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_OFF
+10.07_19:47:20_229 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_19:47:20_232 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_19:47:20_234 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_ON
+10.07_19:47:20_235 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_19:47:20_238 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_19:47:25_631 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_19:47:25_632 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_19:47:25_639 DEBUG [JCoreHelper]            runActionWithService action:user_present
+10.07_19:47:25_640 DEBUG [JCommonInterface]       onEvent action:user_present
+10.07_19:47:25_642 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_19:47:25_646 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_19:47:25_647 DEBUG [JPushActionImpl]        handle third message:android.intent.action.USER_PRESENT
+10.07_19:48:56_668 DEBUG [ActionHelper]           doAction:jcore_on_event
+10.07_19:48:56_669 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_19:48:56_670 DEBUG [JCommonInterface]       onEvent action:periodtask
+10.07_19:48:56_677 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_19:53:08_057 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_19:53:08_058 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_19:53:08_059 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_OFF
+10.07_19:53:28_683 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_19:53:28_683 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_19:53:28_685 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_ON
+10.07_19:53:28_686 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_19:53:28_688 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_19:53:34_801 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_19:53:34_802 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_19:53:34_803 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_OFF
+10.07_19:54:38_405 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_19:54:38_406 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_19:54:38_409 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_ON
+10.07_19:54:38_413 DEBUG [ActionHelper]           doAction:jcore_on_event
+10.07_19:54:38_413 DEBUG [JCommonInterface]       onEvent action:periodtask
+10.07_19:54:38_416 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_19:54:38_417 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_19:54:38_417 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_19:54:38_418 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_19:54:39_408 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_19:54:39_410 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_19:54:39_413 DEBUG [JCoreHelper]            runActionWithService action:user_present
+10.07_19:54:39_417 DEBUG [JPushActionImpl]        handle third message:android.intent.action.USER_PRESENT
+10.07_19:54:39_420 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_19:54:39_420 DEBUG [JCommonInterface]       onEvent action:user_present
+10.07_19:54:39_447 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_19:56:05_076 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_19:56:05_076 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_19:56:05_077 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_OFF
+10.07_20:01:02_197 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_20:01:02_198 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_20:01:02_201 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_ON
+10.07_20:01:02_219 DEBUG [ActionHelper]           doAction:jcore_on_event
+10.07_20:01:02_219 DEBUG [JCommonInterface]       onEvent action:periodtask
+10.07_20:01:02_229 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_20:01:02_230 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_20:01:02_232 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_20:01:02_233 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_20:01:08_300 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_20:01:08_301 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_20:01:08_302 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_OFF
+10.07_20:01:08_565 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_20:01:08_566 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_20:01:08_568 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_20:01:08_567 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_ON
+10.07_20:01:08_569 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_20:01:56_874 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_20:01:56_874 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_20:01:56_875 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_OFF
+10.07_20:01:57_993 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_20:01:57_994 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_20:01:57_995 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_20:01:57_997 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_20:01:57_995 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_ON
+10.07_20:01:58_782 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_20:01:58_783 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_20:01:58_786 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_20:01:58_784 DEBUG [JCoreHelper]            runActionWithService action:user_present
+10.07_20:01:58_790 DEBUG [JPushActionImpl]        handle third message:android.intent.action.USER_PRESENT
+10.07_20:01:58_791 DEBUG [JCommonInterface]       onEvent action:user_present
+10.07_20:01:58_793 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_20:02:34_722 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_20:02:34_723 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_20:02:34_724 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_OFF
+10.07_20:03:13_400 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_20:03:13_400 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_20:03:13_401 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_ON
+10.07_20:03:13_405 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_20:03:13_409 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_20:03:19_519 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_20:03:19_520 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_20:03:19_521 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_OFF
+10.07_20:03:24_136 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_20:03:24_137 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_20:03:24_138 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_ON
+10.07_20:03:24_139 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_20:03:24_141 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_20:03:30_334 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_20:03:30_335 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_20:03:30_336 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_OFF
+10.07_20:07:14_736 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_20:07:14_737 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_20:07:14_738 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_ON
+10.07_20:07:14_742 DEBUG [ActionHelper]           doAction:jcore_on_event
+10.07_20:07:14_742 DEBUG [JCommonInterface]       onEvent action:periodtask
+10.07_20:07:14_746 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_20:07:14_747 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_20:07:14_748 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_20:07:14_749 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_20:07:20_758 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_20:07:20_759 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_20:07:20_760 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_OFF
+10.07_20:08:33_319 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_20:08:33_319 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_20:08:33_320 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_ON
+10.07_20:08:33_321 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_20:08:33_322 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_20:08:34_384 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_20:08:34_385 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_20:08:34_386 DEBUG [JCoreHelper]            runActionWithService action:user_present
+10.07_20:08:34_387 DEBUG [JPushActionImpl]        handle third message:android.intent.action.USER_PRESENT
+10.07_20:08:34_388 DEBUG [JCommonInterface]       onEvent action:user_present
+10.07_20:08:34_388 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_20:08:34_393 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_20:13:09_887 DEBUG [ActionHelper]           doAction:jcore_on_event
+10.07_20:13:09_887 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_20:13:09_888 DEBUG [JCommonInterface]       onEvent action:periodtask
+10.07_20:13:09_890 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_20:17:54_953 DEBUG [ActionHelper]           doAction:jcore_on_event
+10.07_20:17:54_954 DEBUG [JCommonInterface]       onEvent action:periodtask
+10.07_20:17:54_954 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_20:17:54_958 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_20:18:58_031 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_20:18:58_031 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_20:18:58_033 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_OFF
+10.07_20:21:00_027 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_20:21:00_030 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_20:21:00_031 DEBUG [JCoreHelper]            runActionWithService action:user_present
+10.07_20:21:00_032 DEBUG [JPushActionImpl]        handle third message:android.intent.action.USER_PRESENT
+10.07_20:21:00_034 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_20:21:00_036 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_20:21:00_034 DEBUG [JCommonInterface]       onEvent action:user_present
+10.07_20:21:00_481 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_20:21:00_481 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_20:21:00_483 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_ON
+10.07_20:21:00_483 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_20:21:00_487 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_20:22:29_645 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_20:22:29_646 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_20:22:29_654 DEBUG [JPushActionImpl]        handle third message:android.net.conn.CONNECTIVITY_CHANGE
+10.07_20:22:29_655 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_20:22:29_656 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_20:22:34_224 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_20:22:34_225 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_20:22:34_226 DEBUG [JPushActionImpl]        handle third message:android.net.conn.CONNECTIVITY_CHANGE
+10.07_20:22:34_789 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_20:22:34_789 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_20:22:34_790 DEBUG [JPushActionImpl]        handle third message:android.net.conn.CONNECTIVITY_CHANGE
+10.07_20:22:34_790 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_20:22:34_795 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_20:22:44_963 DEBUG [ActionHelper]           doAction:jcore_on_event
+10.07_20:22:44_964 DEBUG [JCommonInterface]       onEvent action:periodtask
+10.07_20:22:44_979 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_20:22:44_981 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_20:27:30_057 DEBUG [ActionHelper]           doAction:jcore_on_event
+10.07_20:27:30_057 DEBUG [JCommonInterface]       onEvent action:periodtask
+10.07_20:27:30_058 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_20:27:30_059 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_20:32:15_154 DEBUG [ActionHelper]           doAction:jcore_on_event
+10.07_20:32:15_155 DEBUG [JCommonInterface]       onEvent action:periodtask
+10.07_20:32:15_155 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_20:32:15_157 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_20:32:44_916 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_20:32:44_917 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_20:32:44_955 DEBUG [JPushActionImpl]        handle third message:android.net.conn.CONNECTIVITY_CHANGE
+10.07_20:32:47_333 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_20:32:47_333 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_20:32:47_334 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_OFF
+10.07_20:32:47_960 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_20:32:47_962 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_20:36:08_629 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_20:36:08_629 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_20:36:08_631 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_ON
+10.07_20:36:08_633 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_20:36:08_635 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_20:36:14_713 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_20:36:14_714 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_20:36:14_715 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_OFF
+10.07_20:44:22_766 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_20:44:22_767 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_20:44:22_767 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_ON
+10.07_20:44:22_777 DEBUG [ActionHelper]           doAction:jcore_on_event
+10.07_20:44:22_778 DEBUG [JCommonInterface]       onEvent action:periodtask
+10.07_20:44:22_825 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_20:44:22_828 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_20:44:22_829 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_20:44:22_830 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_20:44:26_565 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_20:44:26_575 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_20:44:26_576 DEBUG [JCoreHelper]            runActionWithService action:user_present
+10.07_20:44:26_577 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_20:44:26_577 DEBUG [JCommonInterface]       onEvent action:user_present
+10.07_20:44:26_578 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_20:44:26_579 DEBUG [JPushActionImpl]        handle third message:android.intent.action.USER_PRESENT
+10.07_20:44:29_930 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_20:44:29_930 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_20:44:29_932 DEBUG [JPushActionImpl]        handle third message:android.net.conn.CONNECTIVITY_CHANGE
+10.07_20:44:29_932 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_20:44:29_938 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_20:49:07_877 DEBUG [ActionHelper]           doAction:jcore_on_event
+10.07_20:49:07_878 DEBUG [JCommonInterface]       onEvent action:periodtask
+10.07_20:49:07_878 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_20:49:07_882 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_20:49:26_589 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_20:49:26_589 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_20:49:26_591 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_OFF
+10.07_20:49:28_598 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_20:49:28_599 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_20:49:28_600 DEBUG [JPushActionImpl]        handle third message:android.intent.action.SCREEN_ON
+10.07_20:49:28_601 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_20:49:28_607 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_20:49:29_719 DEBUG [ActionHelper]           doAction:handle_msg
+10.07_20:49:29_725 DEBUG [JCommonInterface]       onEvent action:get_receiver
+10.07_20:49:29_732 DEBUG [JCoreHelper]            runActionWithService action:user_present
+10.07_20:49:29_734 DEBUG [JPushActionImpl]        handle third message:android.intent.action.USER_PRESENT
+10.07_20:49:29_736 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
+10.07_20:49:29_742 INFO  [JCoreTCPManager]        No network connection. Give up to start connection thread.
+10.07_20:49:29_736 DEBUG [JCommonInterface]       onEvent action:user_present
+10.07_20:53:52_946 DEBUG [ActionHelper]           doAction:jcore_on_event
+10.07_20:53:52_947 DEBUG [JCommonInterface]       onEvent action:periodtask
+10.07_20:53:52_947 DEBUG [JCoreTCPManager]        Action - restartNetworkingClient, pid:21969
